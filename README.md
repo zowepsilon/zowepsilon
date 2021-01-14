@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on (Gravit)[https://github.com/Gravit-Dev-Team/Gravit].
 - 🌱 I’m currently learning to be quiet.😄
 - 👯 I’m looking to collaborate on nothing (for now).
 - 📫 How to reach me: join me on Discord : `Anatom#5925`
