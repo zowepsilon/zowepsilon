@@ -9,4 +9,4 @@
 
 [![anatom3000's (very good) github stats](https://github-readme-stats.vercel.app/api?username=anatom3000)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anatom3000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anatom3000&exclude_repo=GuessWhatWillHappenInThis)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
