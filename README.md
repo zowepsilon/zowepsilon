@@ -5,8 +5,9 @@
 - 📫 DM me on Discord : `Anatom#9169`
 - 👍 I like math, physics, video games and programming.
 
-[![anatom3000's (very good) github stats](https://github-readme-stats.vercel.app/api?username=anatom3000)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anatom3000&exclude_repo=GuessWhatWillHappenInThis)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anatom3000&show_icons=true&theme=transparent&hide_border=true" />
+</a>
 
-Does anyone read this stuff?
+<sub>Does anyone read this stuff?</sub>
