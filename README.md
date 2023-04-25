@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/8d3a9fe1-5756-43c0-9b5d-ea9d3f5e5812.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 - 🌱 I’m currently learning to be quiet.😄
 - 👯 I’m looking to collaborate on nothing (for now).
 - 📫 DM me on Discord : `Anatom#9169`
