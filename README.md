@@ -4,7 +4,7 @@
 
 - 👍 I like math, physics, video games and programming.
 - 🤓 I mostly code for fun and to learn things.
-- 📫 DM me on Discord! `Anatom#9169`
+- 📫 DM me on Discord! `zolguroth`
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"> <img src='https://wakatime.com/badge/user/8d3a9fe1-5756-43c0-9b5d-ea9d3f5e5812.svg'> </a>
