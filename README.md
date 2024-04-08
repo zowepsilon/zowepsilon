@@ -4,6 +4,6 @@
 
 - 👍 I like math, physics, video games and programming.
 - 🤓 I mostly code for fun and to learn things.
-- 📫 DM me on Discord `@zolguroth`
+- 📫 DM me on Discord `@anatom3000`
 
 <sub>Does anyone read this stuff?</sub>
