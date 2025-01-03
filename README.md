@@ -9,3 +9,5 @@ Functional programming is so good, and OCaml is interesting but Rust clears, sor
 📫 DM me on Discord: `@anatom3000`
 
 <sub>Does anyone read this stuff?</sub>
+
+<img src="https://komarev.com/ghpvc/?username=anatom3000" alt="" width="80"/>
