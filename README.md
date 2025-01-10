@@ -4,10 +4,6 @@ I'm interested in language & compiler design, type systems, metaprogramming, aut
 
 I love studying math, formal logic systems and reading about the philosophy of mathematics.
 
-Functional programming is so good, and OCaml is interesting but Rust clears, sorry. 🦀
-
 📫 DM me on Discord: `@anatom3000`
 
 <sub>Does anyone read this stuff?</sub>
-
-<img src="https://komarev.com/ghpvc/?username=anatom3000" alt="" width="80"/>
