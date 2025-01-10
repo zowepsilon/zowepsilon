@@ -2,7 +2,7 @@
 
 I'm interested in language & compiler design, type systems, metaprogramming, automated proof checking and 3D rendering.
 
-I love studying math, formal logic systems and reading about the philosophy of mathematics.
+I love studying math, formal logic systems and reading about philosophy of mathematics.
 
 📫 DM me on Discord: `@anatom3000`
 
