@@ -4,7 +4,7 @@ I'm interested in language & compiler design, type systems, metaprogramming, aut
 
 I sometimes make Geometry Dash mods.
 
-I love math, formal logic systems and reading about philosophy of mathematics.
+I love math, formal logic systems and reading about the philosophy of mathematics.
 
 📫 DM me on Discord: `@zowepsilon`
 
